@@ -5,36 +5,94 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
-
     <!-- Fonts and Icons -->
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
 
 		<!-- External Stylesheet -->
-		<link rel="stylesheet" href="style.css">
+    <link href="main.a3f694c0.css" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
 
      <!-- FavIcon -->
     <link rel='icon' type='image/png' href='img/favicon.png'>
 
     <title>Urhobo Translator</title>
   </head>
+
   <body>
-    <h1>Hello, world!</h1>
-    <p>Urhobo Waa do!
-Urhobo MaskIhwo r’ Urhobo (Urhobo people) are a people of southern Nigeria, specifically the northwestern Niger River delta. Urhobo is the major ethnic group in Delta State—Delta State being one of the 36 states of the Federal Republic of Nigeria. The Urhobo language is classified under the Niger-Congo group; the Urhobo nation consists of twenty-two units or clans.
-
-Urhobo number over half a million according to the Nigerian 1963 census and is classified among the first ten major ethnic groups in Nigeria. Urhoboland is bounded by latitudes 6°and 5° ,15° north and longitudes 5°, 40° and 6° ,25° west, and by the following neighbors: Isoko to the southeast, Itsekiri to the west, Bini to the north, Ijaw to the south and Ukwani to the northeast. The natural vegetation of Urhoboland is the tropical rain forest.</p>
 
 
+    <!------------------------------ Header/Menu -------------------------------->
+      <header>
+        <nav class="navbar  navbar-fixed-top navbar-default">
+        <div class="container">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle uarr collapsed" data-toggle="collapse" data-target="#navbar-collapse-uarr">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="./index.html" title="">
+              <img src="img/brand.png" class="navbar-logo-img" alt="">
+            </a>
+          </div>
+
+          <div class="collapse navbar-collapse" id="navbar-collapse-uarr">
+            <ul class="nav navbar-nav navbar-right">
+              <li><a href="./index.html" title="" class="active menu"><b>HOME</b></a></li>
+              <li class="menu"><a href="">|</a></li>
+              <li><a href="./projects.html" title="" class="menu">History</a></li>
+              <li class="menu"><a href="">|</a></li>  
+              <li><a href="./volunteer.html" title="" class="menu">Urhobo Kingdom</a></li>
+              <li class="menu"><a href="">|</a></li>
+              <li><a href="./contact.html" title="" class="menu">Traditions/Customs</a></li>  
+              <li class="menu"><a href="">|</a></li>
+              <li><a href="./about.html" title="" class="menu"> About</a></li>
+            </ul>
+          </div>
+        </div>
+        </nav>
+      </header>
+      <div class="container">
+
+        <section class="content">
+
+          <div class="searchBox">
+          <input type="text" name="search" id="search" class="search" value="Search...">
+           <p class="searchDescription"><i>Translate English words to Urhobo</br>
+           Example: type in cup in the search box.</i></p> 
+          </div>  
+
+          <div class="inUrhobo">
+            <h4>In Urhobo</h4>
+            <p class="meaning" id="meaning"></p>
+          </div>
+
+          <div class="sentences">
+            <h4>As used in some Sentences</h4>
+            <div>
+              <h6>Urhobo</h6>
+            </div>
+            <div>
+              <h6>English</h6>
+            </div>
+          </div>
+
+          <div class="links">
+            <a href=""><b>Urhobo Anthem</b></a> | <a href=""><b>Greetings</b></a> | <a href=""><b>Alphabets</b></a> | <a href=""><b>Parts of the Body</b></a> | <a href=""><b>Parables</b></a> | <a href=""><b>Names and Meanings</b></a>
+          </div>
+        <p>Urhobo Waa do!
+          Urhobo MaskIhwo r’ Urhobo (Urhobo people) are a people of southern Nigeria, specifically the northwestern Niger River delta. Urhobo is the major ethnic group in Delta State—Delta State being one of the 36 states of the Federal Republic of Nigeria. The Urhobo language is classified under the Niger-Congo group; the Urhobo nation consists of twenty-two units or clans. </br></br>
+
+          Urhobo number over half a million according to the Nigerian 1963 census and is classified among the first ten major ethnic groups in Nigeria. Urhoboland is bounded by latitudes 6°and 5° ,15° north and longitudes 5°, 40° and 6° ,25° west, and by the following neighbors: Isoko to the southeast, Itsekiri to the west, Bini to the north, Ijaw to the south and Ukwani to the northeast. The natural vegetation of Urhoboland is the tropical rain forest.</p>
+      </section>
+
+</div>
 
 
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+   
 
     <!-- External/Main JavaScript -->
     <script type="text/javascript" src="script.js"></script>

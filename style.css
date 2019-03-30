@@ -1,0 +1,32 @@
+body {
+	font-family: Fira Sans,Helvetica,Arial,sans-serif;
+    	font-size: 15px;
+    	line-height: 1.81;
+    	background-color: rgb(230, 230, 230);
+    	box-sizing: border-box;
+}
+
+.container {
+}
+
+a {
+	color: rgb(102, 153, 153);
+}
+a:hover {
+	text-decoration: none;
+	color: rgb(61, 92, 92);
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: rgb(0, 68, 102);
+}
+
+.content {
+	background-color: white;
+	max-width: 800px;
+	margin: 0px auto 0px;
+	padding: 50px 20px 0;
+	background-color: white;
+	border-right: 1px solid rgba(140, 140, 140, 0.5);
+	border-left: 1px solid rgba(140, 140, 140, 0.5);
+}	
