@@ -1,18 +1,42 @@
 // let searchWord = document.getElementById('search');
 let go = document.getElementById('go');
+let input = document.getElementById('search')
 
 function assignSearch() {
 	let search = document.getElementById('search').value;
 	let searchWord = search.toLowerCase();
-	console.log(search)
-	console.log(searchWord);
 	if (words[searchWord] !== undefined) {
-		document.getElementById('meaning').innerHTML = words[searchWord];
-	} else {
-		document.getElementById('meaning').innerHTML = 'Word not found!';
+		document.getElementById('meaning').innerHTML = `<i>${search}:</i> <b>${words[searchWord]}</b>`;
+	} 
+	// else if (words[searchWord] === undefined) {
+	// 	document.getElementById('meaning').innerHTML = "Type in a word";
+	// } 
+	else {
+		document.getElementById('meaning').innerHTML = `${search} not found!`;
+	}
+	input.value = "";
+	if (sentence1[searchWord] !== undefined) {
+		document.getElementById('sentenceOne').innerHTML = `${sentence1[searchWord]}`
+	};
+}
+
+function sentenceOne() {
+		let search = document.getElementById('search').value;
+		let searchWord = search.toLowerCase();
+		console.log(search)
+		console.log(searchWord);	
+	if (sentence1[searchWord] !== undefined) {
+		document.getElementById('sentenceOne').innerHTML = '${sentence1[searchWord]}'
+	};
+}
+
+/////////////////////// Keypress Enter 
+function enterSearch(event) {
+	if (event.keyCode === 13) {
+		assignSearch();
 	}
 }
 
 
-
 go.addEventListener('click', assignSearch);
+input.addEventListener("keypress", enterSearch);

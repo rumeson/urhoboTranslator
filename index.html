@@ -59,7 +59,7 @@
         <section class="content">
 
           <div class="searchBox">
-          <input type="text" name="search" id="search" class="search" placeholder="Search..."><button id="go">Go</button>
+          <input type="text" name="search" id="search" class="search" placeholder="Search..." autofocus><button id="go">Go</button>
            <p class="searchDescription"><i>Translate English words to Urhobo</br>
            <b>Example:</b> Enter cup in the search box.</i></p> 
           </div>  
@@ -71,12 +71,9 @@
 
           <div class="sentences">
             <h4>As used in some Sentences</h4>
-            <div>
-              <h6>Urhobo</h6>
-            </div>
-            <div>
-              <h6>English</h6>
-            </div>
+            <div class="sOne" id="sentenceOne"></div>
+            <div class="sTwo" id="sentenceTwo"></div>
+            <div class="sThree" id="sentenceThree"></div>
           </div>
 
           <div class="links">
@@ -96,6 +93,7 @@
 
     <!-- External/Main JavaScript -->
     <script type="text/javascript" src="words.js"></script>
+    <script type="text/javascript" src="sentence1.js"></script>
     <script type="text/javascript" src="script.js"></script>
   </body>
 </html>
