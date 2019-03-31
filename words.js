@@ -265,7 +265,7 @@ wealth: 'efe',
 bird: 'eferifẹn',
 // éfi1 n. fenced hidden place where masquerades and the like are dressed
 rope: 'efi <i><small>used by palm collector in climbing the palm tree</small></i>',
-hob: 'egaga'.
+hob: 'egaga',
 glass: 'eganase <i><small>glass for drinking wine</small></i>',
 bowel: 'égede',
 'storey building': 'égenége (égedége)',
