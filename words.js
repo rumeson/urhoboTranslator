@@ -100,7 +100,7 @@ ogogoro: 'amereka (agbakara), (ekaikai) <i><small>locally brewed gin, ogogoro</s
 'banga soup': 'amiédi (oghwórédi)',
 tears: 'amióviẹ',
 who: 'amóno',
-charm: 'ámrádjẹ <i><small>charm for protection against the dead</small></i></br>áriákpa <i><small>charm for protection against any poisonous thing taken in by mouth</small></i></br>arido <i><small>charm for sharp remembrance/knowledge</small></i></br>atámu <i><small>charm for effective balance</small></i></br>átárhọvwe <i><small>charm for easy acceptance/answer</small></i></br>brávwárhé <i><small>charm for lightness</small></i></br>ávwíkpe <i><small>charm for postponing evil days such as death</small></i></br>égbésásá <i><small>charm for glorious dance</small></i>',
+charm: "ẹbo</br>ámrádjẹ <i><small>charm for protection against the dead</small></i></br>áriákpa <i><small>charm for protection against any poisonous thing taken in by mouth</small></i></br>arido <i><small>charm for sharp remembrance/knowledge</small></i></br>atámu <i><small>charm for effective balance</small></i></br>átárhọvwe <i><small>charm for easy acceptance/answer</small></i></br>brávwárhé <i><small>charm for lightness</small></i></br>ávwíkpe <i><small>charm for postponing evil days such as death</small></i></br>égbésásá <i><small>charm for glorious dance</small></i></br>énivwọvo <i><small>charm for the exclusive attention of one's husband or lover</small></i></br>ẹkpo <i><small>charm for protection against machete attack</small></i></br>ẹ&#768lọhọ <i><small>charm for easy life</small></i>",
 cloth: 'amwá',
 pride: 'anama',
 April: 'ané',
@@ -259,7 +259,6 @@ peer: 'edje',
 explanation: 'édjé',
 description: 'édjé',
 crocodile: 'edjere',
-leopard: 'edjenékpo (adjanákpu)',
 tiger: 'edjenékpo (adjanákpu)',
 wealth: 'efe',
 bird: 'eferifẹn',
@@ -362,274 +361,284 @@ arresting: 'emuó <i><small>act of arresting</small></i>',
 foodstuff: 'emuore',
 'motorcycle': 'enákpukpu (imotosakoro)',
 pineapple: 'enanadja',
+elephant: 'eni',
+'head pad': 'ení',
+hippopotamus: 'eniáme (ẹ&#768rhẹ&#768n)',
+'act of quitting': 'enó',
+quitting: 'enó <i><small>act of quitting</small></i>',
+brightness: 'énó',
+up: 'énu (obénu)',
+top: 'énu (obénu)',
+'act of grumbling': 'enuebro',
+grumbling: 'enuebro <i><small>act of grumbling</small></i>',
+ascension: 'énuerá',
+spittle: 'enya',
+'half kobo': 'epini',
+oracle: 'epha',
+divination: 'epha',
+uring: 'ephẹn',
+ringworm: 'ephẹphẹ (ephẹren)',
+language: 'éphẹ&#768rẹ',
+Ijoh: 'éphẹ&#768rẹ',
+Ijaw: 'éphẹ&#768rẹ',
+'native blade': 'erákive (arẹn), (akive)',
+dog: 'eráko',
+// erán n. crushed palm kernel fibre for making fire
+meat: 'eravwe',
+animal: 'eravwe',
+mat: 'eré <i><small>kind of mat</small></i>',
+gain: 'erere',
+fish: 'eri</br>ẹba <i><small>fish specie</small></i>',
+knowledge: 'ériáriẹ',
+'over feeding': 'eriávọ',
+'land of the dead': 'erivwi',
+backbiting: 'ero',
+dove: 'érurẹ',
+three: 'érha',
+fire: 'erhare',
+hell: 'erhare',
+spice: 'érhe <i><small>kind of spice</small></i>',
+yawn: 'érhe',
+ceiling: 'erherin',
+soul: 'erhi',
+spirit: 'erhi',
+butterfly: 'erhi',
+'tale bearing': 'érhia (úgbéje)',
+'alligator pepper': 'erhié',
+ant: 'erhirhi (ómóraravwe)</br>ésákpa <i><small>ant specie</small></i>',
+millipede: 'erhívwi',
+hat: 'erhu',
+barn: 'erhún',
+cow: 'erhuẹ&#768',
+'act of bending': 'érhuẹ&#768',
+bending: 'érhuẹ&#768 <i><small>act of bending</small></i>',
+port: 'erhuru',
+'refuse dump': 'erhurhu',
+beauty: 'érhuvwu',
+six: 'ésan',
+bail: 'esábọ',
+'great great grandchild': 'esákpógodi',
+calling: 'esé',
+reading: 'esé',
+faith: 'esegbúyóta',
+belief: 'esegbúyóta',
+pig: 'esi',
+sow: 'esiáye',
+wirting: 'esió',
+reduction: 'esiónó',
+'bush pig': 'esirághwá',
+base: 'esiri',
+sack: 'esiso',
+'two hundred naira': 'esiso',
+treatment: 'esivwo',
+contesting: 'esivwo',
+'act of struggling for': 'esivwo',
+struggling: 'esivwo <i><small>act of struggling for</small></i>',
+redemption: 'esívwórhọ',
+'grey hair': 'esha',
+'act of falling': 'éshé',
+falling: 'éshé <i><small>act of falling</small></i>',
+failure: 'eshé',
+rashes: 'eshẹ',
+crawcraw: 'eshẹ',
+devil: 'eshu',
+ward: 'ete',
+// éti n. plant used locally for making trays and other things
+here: 'etinẹ',
+there: 'etíyi',
+watermelon: 'éto',
+heap: 'etu',
+bargain: 'evé',
+breast: 'evie',
+some: 'evo',
+stomach: 'evun (úgáva)',
+belly: 'evun (úgáva)',
+pregnancy: 'evun',
+in: 'evun <i><small>side</small></i>',
+shop: 'évun',
+store: 'évun',
+diarrhoea: 'evuétué',
+dysentery: 'evuétué',
+abortion: 'evuẹ&#768kpárọ',
+recognition: 'evúghe',
+'act of reaping': 'evuó',
+reaping: 'evuó <i><small>act of reaping</small></i>',
+harvesting: 'evuó',
+bank: 'évurígho (ibanki)',
+roasting: 'evúvwó',
+rising: 'evrẹ&#768',
+resurrection: 'evrẹ&#768núshi',
+dream: 'évwérhẹ',
+birth: 'évwiẹ',
+forgiveness: 'evwóghóvwo',
+coronation: 'evwómuẹ',
+'bat like animal': 'evwu',
+somersault: 'evwré',
+'palm oil': 'evwri (ọ&#768fígbo)',
+'mineral oil': 'evwri (ọ&#768fígbo)',
+dew: 'evwrú',
+'bush clearing': 'éwán',
+'palm branch': 'ewavwe <i><small>palm branch with leaves on</small></i>',
+// ewé (eghwé) v.n. act of passing a thread through the eye of a needle, etc.
+transfer: 'ewéne',
+change: 'ewéne',
+monkey: 'ewéri',
+'express happiness': 'éwewu',
+shirt: 'éwun',
+trousers: 'éwunráwọ',
+bet: 'eyá',
+'guinea grass': 'éyareya',
+dedication: 'ezekẹ',
+///////////////////////////// Ẹ ẹ
+
+nakedness: 'ẹban',
+rag: 'ẹbamwá',
+leaf: 'ẹbe',
+lip: 'ẹbẹgbunu',
+'love play': 'ẹbẹnẹ',
+side: 'ẹ&#768bẹ&#768re',
+piece: 'ẹbẹre',
+opposite: 'ẹ&#768bẹ&#768rochékọ',
+'lemon grass': 'ẹbiriẹ',
+medicine: 'ẹbo',
+construction: 'ẹbó',
+door: 'échẹ',
+'act of drinking': 'ẹdá',
+drinking: 'ẹdá <i><small>act of drinking</small></i>',
+'day before traditional market day': 'ẹdebi',
+day: 'ẹdẹ',
+'act of buying': 'ẹdẹ&#768',
+buying: 'ẹdẹ&#768 <i><small>act of buying</small></i>',
+'day after tomorrow': 'ẹdẹjerọ',
+'market day': 'ẹdẹ&#768wọ <i><small>a day for abstaining from going to the bush for farming</small></i>',
+residence: 'ẹdia',
+place: 'ẹdia',
+week: 'ẹdidjana',
+Sunday: 'ẹdidjanarode',
+Saturday: 'ẹdidjanarotete',
+'traditional working day': 'ẹdiruo',
+Wednesday: 'ẹdiruorérhá',
+Thusrday: 'ẹdiruorẹ&#768né',
+Monday: 'ẹdiruorẹ&#768sósuọ&#768',
+Tuesday: 'ẹdiruorívẹ&#768',
+Friday: 'ẹdiruoríyórín',
+leanness: 'ẹdọ',
+// ẹdúhrẹ n. traditional day of abstaining from work and some other activities
+'act of hiding': 'ẹdjávwọ (esióne)',
+hiding: 'ẹdjávwọ (esióne) <i><small>act of hiding</small></i>',
+'court case': 'ẹ&#768djọ&#768',
+masquerade: 'ẹdjọ',
+shrine: 'ẹdjọ',
+translation: 'ẹfá',
+feast: 'ẹfa <i><small>feast held by traditional worshippers</small></i>',
+'region of the ribs': 'ẹfẹn',
+juggling: 'ẹfrẹ&#768',
+barren: 'ẹga',
+service: 'ẹga',
+'act of driving': 'ẹguá',
+driving: 'ẹguá <i><small>act of driving</small></i>',
+defilement: 'ẹgua',
+conference: 'ẹguare',
+meeting: 'ẹguare',
+gathering: 'ẹguare',
+love: 'ẹ&#768guọ&#768nọ',
+strength: 'ẹ&#768gbá',
+effort: 'ẹ&#768gbá',
+'act of embracing': 'ẹgbánọ',
+embracing: 'ẹgbánọ <i><small>act of embracing</small></i>',
+coven: 'ẹ&#768gborhá',
+'group of towns': 'ẹ&#768gbórho',
+abomination: 'ẹgha',
+// ẹgha2 n. resultant effect of committing a forbidden act
+dividing: 'ẹghárọ <i><small>act of dividing</small></i>',
+'majestic walk': 'ẹghọ&#768riẹ',
+castration: 'ẹghwárọ',
+// ẹ&#768ghweya n. totality of married women in a given place
+mat: 'ẹghwẹ&#768re',
+slap: 'ẹ&#768ghwiẹ',
+burn: 'ẹghwiẹ',
+slipperiness: 'ẹghwóriẹ',
+'express agreement': 'ẹhẹn',
+expansion: 'ẹhẹrẹ',
+waiting: 'ẹhẹrhẹ <i><small>act of waiting</small></i>',
+palm: 'ẹ&#768hẹ&#768rhóbọ',
+sole: 'ẹ&#768hẹ&#768rhówọ',
+nest: 'ẹho',
+bath: 'ẹ&#768họ&#768',
+baptism: 'ẹhọ&#768nímwémwun',
+October: 'ẹhwé',
+no: 'ẹjo',
+remembrance: 'ẹkaruvwiyọ',
+rust: 'ẹ&#768kegba',
+share: 'ẹ&#768kẹ',
+portion: 'ẹ&#768kẹ',
+camel: 'ẹ&#768kẹkẹtẹ',
+however: 'ẹ&#768kẹ&#768vuọvo',
+sourness: 'ẹkiọ',
+group: 'ẹko',
+planting: 'ẹkọ <i><small>act of planting</small></i>',
+packing: 'ẹkuá <i><small>act of packing</small></i>',
+// ẹkuedi (okedi) n. place where palm nut collectors process the nuts
+country: 'ẹ&#768kuótọ',
+fool: 'ẹkpa',
+unripe: 'ẹkpa',
+lifting: 'ẹkpárọ <i><small>act of lifting</small></i>',
+postponement: 'ẹkpárọ',
+answer: 'ẹkpávwiyo', 
+reply: 'ẹkpávwiyo',
+gratitude: 'ẹ&#768kpẹ&#768vwẹ&#768',
+thanks: 'ẹ&#768kpẹ&#768vwẹ&#768',
+swelling: 'ẹ&#768kpo',
+measuring: 'ẹmá <i><small>act of measuring</small></i>',
+moulding: 'ẹmá',
+sweetness: 'ẹmiẹmiẹ',
+production: 'ẹmọ&#768 <i><small>production of fruits</small></i>',
+visitation: 'ẹmrẹ&#768',
+seeing: 'ẹmrẹ&#768 <i><small>act of seeing</small></i>',
+realisation: 'ẹmrẹ&#768vúghe',
+four: 'ẹ&#768ne',
+pacification: 'ẹnẹ&#768rhẹ <i><small>e.g. from crying</small></i>',
+grinding: 'ẹbi <i><small>act of grinding</small></i>',
+creeping: 'ẹrán',
+eight: 'ẹréré',
+admission: 'ẹreyọ',
+acceptance: 'ẹreyọ',
+levelling: 'ẹrẹ&#768',
+tongue: 'ẹrẹvwe',
+eating: 'ẹriọ&#768 <i><small>act of eating</small></i>',
+eye: 'ẹro',
+swallowing: 'ẹrọ&#768 <i><small>act of swallowing</small></i>',
+civilisation: 'ẹruérhié',
+hope: 'ẹruévwióvwíyọ',
+supervision: 'ẹruévwóte',
+prophesy: 'ẹruẹ&#768mrẹ&#768',
+entry: 'ẹruọ&#768',
+flying: 'ẹrhá',
+leopard: 'ẹrha (akason)',
+swimming: 'ẹrhẹrhẹ',
+wrist: 'ẹ&#768rhóbọ',
+dislocation: 'ẹrhóghra <i><small>of a bone in the body</small></i>',
+leech: 'ẹrhorho',
+prayer: 'ẹhrovwo',
+shooting: 'ẹsá <i><small>act of shooting</small></i>',
+selection: 'ẹsánọ',
+gift: 'ẹ&#768se',
+souvenir: 'ẹ&#768seróka',
+later: 'ẹsiẹ&#768fa',
+refusal: 'ẹsiọ&#768',
+sale: 'ẹshẹ&#768',
+crawling: 'ẹshọ&#768rọ (ekpono) <i><small>act of crawling</small></i>',
+// ẹtá v.n. act of recovering what is used as collateral security
+'pool of water': 'ẹtẹrhe',
+hair: 'ẹto',
+beard: 'ẹtoégba',
 }
 
 
 
 
 
-// eni1 n. elephant
-// ení2 n. head-pad
-// eniáme (érhén) n. hippopotamus
-// énivwọvo n. charm for the exclusive attention of one's husband or lover
-// enó1 n. act of quitting
-// énó2 n. brightness
-// énu (obénu) prep. up/top
-// enuebro n. act of grumbling
-// énuerá n. ascension
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 9
-// Urhobo PoS English gloss
-// enya n. spittle
-// epini n. half kobo (½k) [No longer in use]
-// epha n. oracle, divination
-// ephẹn n. urine
-// ephẹphẹ (ephẹren) n. ringworm
-// éphérẹ1 n. language
-// éphérẹ2 n. Urhobo name for the Ijọ people and their language
-// erákive (arẹn)
-// (akive)
-// n. native blade
-// eráko n. dog
-// erán n. crushed palm kernel fibre for making fire
-// eravwe n. animal, meat
-// eré n. kind of mat
-// erere n. gain
-// eri n. fish
-// ériáriẹ n. knowledge
-// eriávọ n. over-feeding
-// erivwi n. land of the dead
-// ero n. backbiting
-// érurẹ n. dove
-// érha num. three
-// erhare1 n. fire
-// erhare2 n. hell
-// érhe1 n. kind of spice
-// érhe2 n. yawn
-// erherin n. ceiling
-// erhi1 n. soul/spirit
-// erhi2 n. butterfly
-// érhia (úgbéje) n. tale-bearing
-// erhié n. alligator pepper
-// erhirhi
-// (ómóraravwe)
-// n. ant
-// erhívwi n. millipede
-// erhu1 n. hat
-// erhún2 n. barn
-// erhué1 n. cow
-// érhué2 v.n. act of bending
-// erhuru n. port
-// erhurhu n. refuse dump
-// érhuvwu n. beauty
-// ésan num. six
-// esábọ n. bail
-// ésákpa n. ant sp.
-// esákpógodi n. great-great-grandchild
-// esé n. reading, calling
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 10
-// Urhobo PoS English gloss
-// esegbúyóta n. belief, faith
-// esi n. pig
-// esiáye n. sow
-// esió n. writing
-// esiónó n. reduction
-// esirághwá n. bush pig
-// esiri n. base
-// esiso1 n. sack
-// esiso2 n. two hundred Naira (N200)
-// esivwo1 n. treatment
-// esivwo2 n. act of struggling for, contesting
-// esívwórhọ n. redemption
-// esha n. grey hair
-// éshé1 n. act of falling
-// eshé2 n. failure
-// eshẹ n. rashes, crawcraw
-// eshu n. devil
-// ete n. ward
-// éti n. plant used locally for making trays and other things
-// etinẹ adv. here
-// etíyi adv. there
-// éto n. watermelon
-// etu n. heap
-// evé n. bargain
-// evie n. breast
-// evo a. some
-// evun1 (úgáva) n. stomach, belly
-// evun2 n. pregnancy
-// evun3 prep. in (side)
-// évun4 n. shop/store
-// evuétué n. diarrhoea/dysentery
-// evuékpárọ n. abortion
-// evúghe n. recognition
-// evuó n. act of reaping, harvesting
-// évurígho (ibanki) n. bank
-// evúvwó n. roasting
-// evré n. rising
-// evrénúshi n. resurrection
-// évwérhẹ n. dream
-// évwiẹ n. birth
-// evwóghóvwo n. forgiveness
-// evwómuẹ n. coronation
-// evwu n. bat-like animal
-// evwré n. somersault
-// evwri (ófígbo) n. palm oil, mineral oil
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 11
-// Urhobo PoS English gloss
-// evwrú n. dew
-// éwán n. bush clearing
-// ewavwe n. palm branch with leaves on
-// ewé (eghwé) v.n. act of passing a thread through the eye of a needle, etc.
-// ewéne n. change, transfer
-// ewéri n. monkey
-// éwewu excl. expresses happiness
-// éwun n. shirt
-// éwunráwọ n. trousers
-// eyá n. bet
-// éyareya n. guinea grass
-// ezekẹ n. dedication
-// Ẹ ẹ
-// ẹba1 n. fish sp.
-// ẹban2 n. nakedness
-// ẹbamwá n. rag
-// ẹbe n. leaf
-// ẹbẹgbunu n. lip
-// ẹbẹnẹ n. romance, love-play
-// ébére1 n. side
-// ẹbẹre2 n. piece
-// ébérochékọ n. opposite
-// ẹbiriẹ n. lemon-grass
-// ẹbo n. medicine, charm
-// ẹbó n. construction
-// échẹ n. door
-// ẹdá n. act of drinking
-// ẹdebi n. day before traditional market day
-// ẹdẹ1 n. day
-// ẹdé2 n. act of buying
-// ẹdẹjerọ n. day after tomorrow
-// ẹdéwọ n. market day; a day for abstaining from going to the bush for farming
-// ẹdia n. residence, place
-// ẹdidjana n. week
-// ẹdidjanarode n. Sunday
-// ẹdidjanarotete n. Saturday
-// ẹdiruo n. traditional working day
-// ẹdiruorérhá n. Wednesday
-// ẹdiruoréné n. Thursday
-// ẹdiruorésósuó n. Monday
-// ẹdiruorívé n. Tuesday
-// ẹdiruoríyórín n. Friday
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 12
-// Urhobo PoS English gloss
-// ẹdọ n. leanness
-// ẹdúhrẹ n. traditional day of abstaining from work and some other activities
-// ẹdjávwọ (esióne) n. act of hiding
-// édjó1 n. court case
-// ẹdjọ2 n. masquerade
-// ẹdjọ3 n. shrine
-// ẹfá1 n. translation
-// ẹfa2 p.n. feast held by traditional worshippers
-// ẹfẹn n. region of the ribs
-// ẹfré n. juggling
-// ẹga1 n. barren
-// ẹga2 n. service
-// ẹguá1 n. act of driving
-// ẹgua2 n. defilement
-// ẹguare n. conference/meeting/gathering
-// éguónọ n. love
-// égbá n. strength/effort
-// ẹgbánọ v.n. act of embracing
-// égborhá n. coven
-// égbórho n. many towns grouped together
-// ẹgha1 n. abomination
-// ẹgha2 n. resultant effect of committing a forbidden act
-// ẹghárọ v.n. act of dividing
-// ẹghóriẹ n. majestic walk
-// ẹghwárọ n. castration
-// éghweya n. totality of married women in a given place
-// ẹghwére n. mat
-// éghwiẹ1 n. slap
-// ẹghwiẹ2 n. burn
-// ẹghwóriẹ n. slipperiness
-// ẹhẹn excl. expresses agreement
-// ẹhẹrẹ n. expansion
-// ẹhẹrhẹ v.n. act of waiting
-// éhérhóbọ n. palm
-// éhérhówọ n. sole
-// ẹho n. nest
-// éhó n. bath
-// ẹhónímwémwun n. baptism
-// ẹhwé n. October
-// ẹjo a. no
-// ẹkaruvwiyọ n. remembrance
-// ékegba n. rust
-// ékẹ n. share/portion
-// ékẹkẹtẹ n. camel
-// ékévuọvo conj. however
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 13
-// Urhobo PoS English gloss
-// ẹkiọ n. sourness
-// ẹko n. group
-// ẹkọ v.n. act of planting
-// ẹkuá v.n. act of packing
-// ẹkuedi (okedi) n. place where palm nut collectors process the nuts
-// ékuótọ n. country
-// ẹkpa1 n. fool
-// ẹkpa2 a. unripe
-// ẹkpárọ1 v.n. act of lifting
-// ẹkpárọ2 n. postponement
-// ẹkpávwiyo n. answer/reply
-// ékpévwé n. gratitude, thanks
-// ẹkpo1 n. charm for protection against machete attack
-// ékpo2 n. swelling
-// élọhọ n. charm for easy life
-// ẹmá1 n. act of measuring
-// ẹmá2 n. moulding
-// ẹmiẹmiẹ n. sweetness
-// ẹmó n. production (of fruits)
-// ẹmré n. act of seeing, visitation
-// ẹmrévúghe n. realisation
-// éne num. four
-// ẹnérhẹ n. pacification (e.g. from crying)
-// ẹbi` v.n. act of grinding
-// ẹrán n. creeping
-// ẹréré num. eight
-// ẹreyọ n. admission, acceptance
-// ẹré n. levelling
-// ẹrẹvwe n. tongue
-// ẹrió v.n. act of eating
-// ẹro n. eye
-// ẹró v.n. act of swallowing
-// ẹruérhié n. civilisation
-// ẹruévwióvwíyọ n. hope
-// ẹruévwóte n. supervision
-// ẹruémré n. prophecy
-// ẹruó n. entry
-// ẹrhá1 n. flying
-// ẹrha2 (akason) n. leopard
-// ẹrhẹrhẹ n. swimming
-// érhóbọ n. wrist
-// ẹrhóghra n. dislocation (of a bone in the body)
-// ẹrhorho n. leech
-// ẹhrovwo n. prayer
-// ẹsá v.n. act of shooting
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 14
-// Urhobo PoS English gloss
-// ẹsánọ n. selection
-// ése n. gift
-// éseróka n. souvenir
-// ẹsiéfa adv. later
-// ẹsió n. refusal
-// ẹshé n. sale
-// ẹshórọ (ekpono) v.n. act of crawling
-// ẹtá v.n. act of recovering what is used as collateral security
-// ẹtẹrhe n. pool of water
-// ẹto n. hair
-// ẹtoégba n. beard
+
 // ẹtórhẹ v.n. act of burning
 // ẹtórọ v.n. act of picking
 // ẹtuohoro n. female pubic hair
@@ -661,26 +670,28 @@ pineapple: 'enanadja',
 // 15
 // Urhobo PoS English gloss
 // Ff
-// fá1 v.t translate
-// fa2 v.i confess
-// fá3 v.t cane/whip
-// fán4 v.t transport
-// fe v.i be rich
-// fefe a. empty
-// fẹnẹ v.i differ, differentiate
-// fi v.t leak
-// fiá v.t split
-// fiunu v.i hiss
-// fobọrhe exp. you may return soon (farewell)
-// fon a. clean
-// fori a. necessary
-// fọ (fotoyi) v.t silence
-// fọrhọ1 v.t wash (clothes)
+// translate: 'fá',
+// confess: 'fa',
+// cane: 'fá',
+// whip: 'fa',
+// transport: 'fán',
+// 'be rich': 'fe',
+// empty: 'fefe',
+// differ: 'fẹnẹ',
+// differentiate: 'fẹnẹ',
+// leak: 'fi',
+// split: 'fiá',
+// hiss: 'fiunu',
+// farewell: 'fobọrhe <i><small>you may return soon (farewell)</small></i>',
+// clean: 'fon',
+// necessary: 'fori',
+// silence: 'fọ (fotoyi)',
+// wash: 'fọrhọ <i><small>clothes</small></i>',
 // fọrhọ2 v.t extract liquid from leaves through squeezing
-// fu v.t quench
-// fuefú a. quiet
+// quench: 'fu',
+// quiet: 'fuefú',
 // fré v.t juggle
-// fru v.t snatch
+// snatch: 'fru',
 // Gg
 // ga1 v.t serve
 // ga2 v.t hold baby in squatting position to ease its defecation and urination
