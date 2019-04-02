@@ -49,7 +49,7 @@ chin: 'agbótọ',
 placenta: 'agbọn (iride)',
 matches: 'agbuna',
 thunder: 'agbrara',
-broom: 'aghán',
+broom: 'aghán</br>ukpono (úhwérhe) <i><small>broom used in sweeping open places like compound while standing</small></i>',
 bead: 'óvwarha</br>úbivie <i><small>coral bead</small></i></br>aghighọn <i><small>chain of coral beads worn round the neck by chiefs</small></i></br>akpóno <i><small>very flat bead made from rubber or palm kernel shells</small></i></br>árhọvwefe <i><small>special bead worn on the neck like a bow-tie by traditional rulers</small></i>',
 joy: 'aghọghọ (omavwerhovwẹ)',
 happiness: 'aghọghọ',
@@ -98,11 +98,11 @@ ogogoro: 'amereka (agbakara), (ekaikai) <i><small>locally brewed gin, ogogoro</s
 'groundnut oil': 'amerísaguẹ',
 tears: 'amióviẹ',
 who: 'amóno',
-charm: "ẹbo</br>ámrádjẹ <i><small>charm for protection against the dead</small></i></br>áriákpa <i><small>charm for protection against any poisonous thing taken in by mouth</small></i></br>arido <i><small>charm for sharp remembrance/knowledge</small></i></br>atámu <i><small>charm for effective balance</small></i></br>átárhọvwe <i><small>charm for easy acceptance/answer</small></i></br>brávwárhé <i><small>charm for lightness</small></i></br>ávwíkpe <i><small>charm for postponing evil days such as death</small></i></br>égbésásá <i><small>charm for glorious dance</small></i></br>énivwọvo <i><small>charm for the exclusive attention of one's husband or lover</small></i></br>ẹkpo <i><small>charm for protection against machete attack</small></i></br>ẹ&#768lọhọ <i><small>charm for easy life</small></i></br>ibiabọ <i><small>charm for effective wrestling</small></i></br>inehweri <i><small>charm for love</small></i></br>ọbiúyovwi <i><small>charm for longevity</small></i></br>ọ&#768ghwẹ&#768fia <i><small>charm for protection against gun shot</small></i></br>ọtishé <i><small>charm for effective blow</small></i>",
+charm: "ẹbo</br>ámrádjẹ <i><small>charm for protection against the dead</small></i></br>áriákpa <i><small>charm for protection against any poisonous thing taken in by mouth</small></i></br>arido <i><small>charm for sharp remembrance/knowledge</small></i></br>atámu <i><small>charm for effective balance</small></i></br>átárhọvwe <i><small>charm for easy acceptance/answer</small></i></br>brávwárhé <i><small>charm for lightness</small></i></br>ávwíkpe <i><small>charm for postponing evil days such as death</small></i></br>égbésásá <i><small>charm for glorious dance</small></i></br>énivwọvo <i><small>charm for the exclusive attention of one's husband or lover</small></i></br>ẹkpo <i><small>charm for protection against machete attack</small></i></br>ẹ&#768lọhọ <i><small>charm for easy life</small></i></br>ibiabọ <i><small>charm for effective wrestling</small></i></br>inehweri <i><small>charm for love</small></i></br>ọbiúyovwi <i><small>charm for longevity</small></i></br>ọ&#768ghwẹ&#768fia <i><small>charm for protection against gun shot</small></i></br>ọtishé <i><small>charm for effective blow</small></i></br>úseki <i><small>charm for business promotion</small></i></br>usigho <i><small>charm for wealth</small></i></br>útuomá <i><small>charm that exposes someone to hatred</small></i>",
 cloth: 'amwá',
 pride: 'anama',
 april: 'ané <i><small>April</small></i>',
-wrapper: 'efenudu (ọnégbáge)</br>ọscba <i><small>upper wrapper (of the two) worn by women</small></i></br>anikú (otéhú) <i><small>lower wrapper (of the two) worn by women</small></i></br>egbru <i><small>wrapper worn by men</small></i></br>ubuara <i><small>handwoven wrapper worn by elders</small></i>',
+wrapper: 'efenudu (ọnégbáge)</br>ọscba <i><small>upper wrapper (of the two) worn by women</small></i></br>anikú (otéhú) <i><small>lower wrapper (of the two) worn by women</small></i></br>egbru <i><small>wrapper worn by men</small></i></br>ubuara <i><small>handwoven wrapper worn by elders</small></i></br>úgbọvó <i><small>single wrapper worn by unmarried girl</small></i>',
 'old coin': 'áníní <i><small>originally a tenth of a penny</small></i>',
 draughts: 'apene',
 hornbill: 'ápiápiá',
@@ -189,7 +189,7 @@ much: 'búnọ',
 bad: 'brabra',
 'how many': 'bró',
 'how much': 'bró',
-cut: 'bru',
+cut: 'bru </br>vwrẹ <i><small>cut (with hands)</small></i>',
 worry: 'brúdú <i><small>about/over something</small></i>',
 advise: 'brúche',
 
@@ -200,7 +200,7 @@ screw: 'chavwọ',
 cook: 'chere',
 tread: 'chiyi <i><small>on something</small></i>',
 steal: 'cho',
-help: 'chúko',
+help: 'chúko (ukẹ&#768cha)',
 ///////////////////// Dd
 drink: 'da',
 sharp: 'dádá',
@@ -261,7 +261,6 @@ tiger: 'edjenékpo (adjanákpu)',
 wealth: 'efe',
 bird: 'eferifẹn (ọ&#768vwra)',
 // éfi1 n. fenced hidden place where masquerades and the like are dressed
-rope: 'efi <i><small>used by palm collector in climbing the palm tree</small></i>',
 hob: 'egaga',
 glass: 'eganase <i><small>glass for drinking wine</small></i>',
 bowel: 'égede',
@@ -377,8 +376,8 @@ divination: 'epha',
 uring: 'ephẹn',
 ringworm: 'ephẹphẹ (ephẹren)',
 language: 'éphẹ&#768rẹ',
-Ijoh: 'éphẹ&#768rẹ',
-Ijaw: 'éphẹ&#768rẹ',
+ijoh: 'éphẹ&#768rẹ <i><small>Urhobo name for the Ijoh people and their language</small></i>',
+ijaw: 'éphẹ&#768rẹ <i><small>Urhobo name for the Ijaw people and their language</small></i>',
 'native blade': 'erákive (arẹn), (akive)',
 dog: 'eráko',
 // erán n. crushed palm kernel fibre for making fire
@@ -395,7 +394,7 @@ dove: 'érurẹ',
 three: 'érha',
 fire: 'erhare',
 hell: 'erhare',
-spice: 'érhe <i><small>kind of spice</small></i>',
+spice: 'érhe <i><small>kind of spice</small></i></br>úririẹ <i><small>spice variety</small></i>',
 yawn: 'érhe',
 ceiling: 'erherin',
 soul: 'erhi',
@@ -452,7 +451,7 @@ some: 'evo',
 stomach: 'evun (úgáva)',
 belly: 'evun (úgáva)',
 pregnancy: 'evun',
-in: 'evun <i><small>side</small></i>',
+in: 'evun (vwẹ&#768)',
 shop: 'évun',
 store: 'évun',
 diarrhoea: 'evuétué',
@@ -479,7 +478,7 @@ dew: 'evwrú',
 'palm branch': 'ewavwe <i><small>palm branch with leaves on</small></i>',
 // ewé (eghwé) v.n. act of passing a thread through the eye of a needle, etc.
 transfer: 'ewéne',
-change: 'ewéne',
+change: 'ewéne (wene)',
 monkey: 'ewéri',
 'express happiness': 'éwewu',
 shirt: 'éwun',
@@ -651,7 +650,7 @@ fading: 'ẹvwóriẹ',
 'baby vomit': 'ẹ&#768vwóriẹ',
 swelling: 'ẹvwọ&#768 <i><small>act of swelling</small></i>',
 'collateral security': 'ẹ&#768wa',
-pass: 'ẹwá',
+pass: 'wavrẹ <i><small>to pass</small></i></br>ẹwá </br>wa <i><small>pass (examination)</small></i>',
 mind: 'ẹ&#768wẹ&#768n',
 breath: 'ẹ&#768wẹ&#768n',
 drying: 'ẹyá <i><small>act of drying</small></i>',
@@ -767,7 +766,7 @@ abuse: 'harhe',
 'expression': 'héhé (ho) <i><small>express surprise</small></i></br>hweké <i><small>expresses surprise resulting from fear</small></i></br>í <i><small>expresses sad feelings</small></i></br>ghwo <i><small>exclamation of disappointment/surprise</small></i></br>Shuo! <i><small>expresses surprise</small></i>',
 wide: 'hẹhẹre',
 wait: 'hẹrhẹ',
-fine: 'ho',
+fine: 'ho </br>yoyovwi (yovwi) <i><small>adv.</small></i>',
 bathe: 'họ',
 similar: 'họhọ',
 close: 'huhu',
@@ -781,7 +780,7 @@ pay: 'hwa',
 tighten: 'hwá',
 narrow: 'hwahwa',
 kill: 'hwe',
-break: 'hwe <i><small>of glass, bottles, etc</small></i>',
+break: 'hwe <i><small>of glass, bottles, etc</small></i></br>vá <i><small>break into parts (e.g. kola-nut)</small></i></br>vwirhi <i><small>break (with hands)</small></i>',
 punish: 'hwé',
 sweep: 'hwerhe',
 laugh: 'hwẹ',
@@ -851,6 +850,7 @@ thirteen: 'íhwérhá (íhwegbẹérha)',
 fourteen: 'íhwẹ&#768né (íhwegbẹéne)',
 fifteen: 'íhwiórí (íhwegbẹíyorin)',
 twelve: 'íhwívẹ&#768 (íhwegbẹívẹ)',
+people: 'ihwo',
 covenant: 'íjí',
 candle: 'ikadoro',
 buttocks: 'ikebe',
@@ -953,7 +953,7 @@ fat: 'ivwri',
 scrotum: 'ivwríte',
 ash: 'íwurhie',
 gum: 'íyáko <i><small>teeth</small></i>',
-sacrifice: 'íye',
+sacrifice: 'íye </br>ze <i><small>v.</small></i>',
 // iye2 excl. word for appreciating an ideal situation
 horse: 'iyési',
 news: 'iyẹnrẹn',
@@ -1053,7 +1053,7 @@ drag: 'kpono',
 crawl: 'kpono2 (shọrọ)',
 low: 'kpótọ',
 deflect: 'kpọ&#768',
-dry: 'kpọ',
+dry: 'kpọ (yáyá)',
 lumpy: 'kpọnọkpọnọ',
 'make wet': 'kpọrhọ',
 unexpectedly: 'kprégédé',
@@ -1220,7 +1220,6 @@ hawker: 'oghoremu',
 branch: 'oghọ',
 hook: 'oghọre',
 mouse: 'oghresi',
-tree: 'oghriki <i><small>tree specie</small></i></br>ohahe <i><small>silk-cotton tree</small></i></br>okpagha <i><small>oil-bean tree</small></i>',
 load: 'oghwá',
 stall: 'óghwa',
 'castrated animal': 'oghwara <i><small>e.g. pig</small></i>',
@@ -1314,7 +1313,7 @@ harshness: 'omẹ&#768dja',
 jealousy: 'omẹ&#768riọ',
 shame: 'omẹ&#768vuọ',
 competition: 'omẹ&#768vwávwọ',
-disgrace: 'omẹ&#768vwọvwọ (ovwọvwọvwe)',
+disgrace: 'omẹ&#768vwọvwọ (ovwọvwọvwe), (vwọvwe)',
 mister: 'omíragua <i><small>Mr.</small></i>',
 lamb: 'ómógodẹ',
 parrot: 'ómoko',
@@ -1375,7 +1374,7 @@ corruption: 'orukuruku',
 sinner: 'orumwemwu',
 thread: 'orúrú',
 witchcraft: 'órhá',
-well: 'orhare',
+well: 'orhare </br>yoyovwi (yovwi) <i><small>adv.</small></i>',
 midwife: 'órhére',
 reverend: 'orhérẹn <i><small>Rev.</small></i>',
 cricket: 'orhérhé',
@@ -1416,7 +1415,8 @@ poem: 'otáríroro',
 tumbler: 'otebene (égo)',
 small: 'ótete',
 leprosy: 'otí (irigbẹyi)',
-ground: 'ótọ',
+ground: 'ótọ (ótọr)',
+land: 'ótọ (ótọr)',
 down: 'ótọ',
 meaning: 'ótọ',
 longevity: 'otọ&#768vwe',
@@ -1430,7 +1430,7 @@ queen: 'ovieraye',
 cry: 'óviẹ&#768',
 message: 'óvuẹ',
 plank: 'ovwavwa',
-sleep: 'ovwerhẹ',
+sleep: 'ovwerhẹ (vwerhẹ)',
 measles: 'ovwi',
 shade: 'óvwie',
 'poor person': 'ovwiégbére',
@@ -1447,11 +1447,11 @@ mosquito: 'ówe',
 'bush mango': 'owe',
 fishpond: 'owẹ',
 hunger: 'owẹvwe',
-work: 'ówia',
+work: 'ówia (wia)',
 catarrh: 'ówórhi',
 leg: 'owọ',
 cough: 'ówọrhe',
-walk: 'óyan',
+walk: 'óyan (yan)',
 movement: 'óyan',
 'garden egg': 'oyao',
 begging: 'oyare',
@@ -1645,7 +1645,7 @@ bitterleaf: 'ọ&#768rígbo',
 cobra: 'ọrobiebi',
 lord: 'ọrovwori',
 idol: 'ọrhá',
-shrine: 'ọrhá',
+shrine: 'ọrhá (uwọ&#768rha)',
 visitor: 'ọrhárha', 
 stranger: 'ọrhárha',
 bachelor: 'ọrháre',
@@ -1720,7 +1720,7 @@ treasurer: 'ọyọrigho',
 housemaid: 'ọyọrọmọ',
 
 ////////////////////////////// P p
-flat: 'paparapa',
+flat: 'paparapa (vwẹghẹvwẹghẹ)',
 anyhow: 'patapata',
 throbbing: 'pépé',
 quietly: 'pẹ&#768pẹ&#768',
@@ -1795,11 +1795,11 @@ bewitch: 'rua',
 
 ////////////////////////////// RH rh
 unite: 'rhá',
-fly: 'rha',
+fly: 'rha </br>úyẹ&#768 <i><small>insect</small></i>',
 paint: 'rhare',
 bore: 'rharhe <i><small>hole</small></i>',
 filter: 'rhẹ',
-turn: 'rhẹriẹ',
+turn: 'rhẹriẹ </br>vwre <i><small>somebody/something over</small></i>',
 swim: 'rhẹrhẹ',
 open: 'rhie',
 'non stop': 'rhiririn',
@@ -1812,7 +1812,6 @@ rain: 'rhọ',
 lay: 'rhọghọ <i><small>egg</small></i>',
 agree: 'rhọvwe',
 accept: 'rhọvwe',
-bend: 'úgúgunu</br>rhuẹ <i><small>down</small></i>',
 cover: 'rhurhu',
 
 ///////////////////////////// S s
@@ -1888,7 +1887,6 @@ rib: 'úbiédada',
 'palm nut': 'úbiédi',
 kidney: 'úbiéhú',
 angle: 'úbiényẹ',
-stone: 'úbiérágha (úbiúkuta)',
 cowry: 'úbígho',
 clitoris: 'úbióhoró',
 consonant: 'ubiotako',
@@ -1898,6 +1896,7 @@ spear: 'úbiri',
 heart: 'úbiúdú',
 'knee cap': 'úbiúgbo',
 "adam's apple": 'úbiupho',
+"adam apple": 'úbiupho',
 stick: 'úbiúrhe',
 intestine: 'úbívun',
 'hundred naira': 'úbrésiso',
@@ -1939,342 +1938,314 @@ shock: 'uguegue',
 // úgba n. game of children involving jumping on the ground
 simultaneously: 'úgbáda',
 ladder: 'ugbakana (agbada)',
-}
-
-
-// ugbenu n. mountain/hill
-// ugbére n. gonorrhoea
-// ugbévwiẹ n. age-group
-// ugbẹ n. pen, biro, pencil
-// ugbẹáme n. pen, biro
-// ugbẹóyaya n. pencil
-// úgbévwére n. potsherd, broken earthenware
-// ugbí n. seed-yam for planting
+mountain: 'ugbenu',
+hill: 'ugbenu',
+gonorrhoea: 'ugbére',
+'age group': 'ugbévwiẹ',
+pen: 'ugbẹ (ugbẹáme)',
+biro: 'ugbẹ (ugbẹáme)',
+pencil: 'ugbẹ (ugbẹọ&#768yaya)',
+potsherd: 'úgbẹ&#768vwẹ&#768re',
+'broken earthenware': 'úgbẹ&#768vwẹ&#768re',
+'seed yam': 'ugbí <i><small>for planting</small></i>',
+'yam seed': 'ugbí <i><small>for planting</small></i>',
 // ugbo n. bone between the knee and the ankle
-// ugbóbọ n. arm
-// ugbogbo n. caterpillar
-// úgbónẹ n. speed
-// ugbọmo n. child belt
-// úgbọvó n. single wrapper worn by unmarried girl
-// úgbugberi adv. across
-// ugbuko (uko) n. back
-// ugbunu (unu) n. mouth
-// ughé n. spectacle
-// ughegbe n. mirror
+arm: 'ugbóbọ',
+caterpillar: 'ugbogbo',
+speed: 'úgbónẹ',
+'child belt': 'ugbọmo',
+across: 'úgbugberi',
+back: 'ugbuko (uko)',
+mouth: 'ugbunu (unu)',
+spectacle: 'ughé',
+mirror: 'ughegbe',
+outskirts: 'úghére', 
+outskirt: 'úghére',
 // úghére n. outskirts of a town or village
-// úghéghẹ n. foolishness
+foolishness: 'úghẹ&#768ghẹ',
 // ughẹn n. period set aside for a woman to sleep with her husband
-// ughọjọ (unọke) n. watch, clock
-// ughwaka n. salt
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 44
-// Urhobo PoS English gloss
-// ughweri n. native salt
-// ughwu n. death
-// ughwru n. boundary
-// úgrógro n. length
-// uhéréviáso n. midnight
-// uhérévie prep. middle, between
+watch: 'ughọjọ (unọke)',
+clock: 'ughọjọ (unọke)',
+salt: 'ughwaka',
+'native salt': 'ughweri',
+death: 'ughwu',
+boundary: 'ughwru',
+length: 'úgrógro',
+midnight: 'uhéréviáso',
+middle: 'uhérévie',
+between: 'uhérévie',
 // úhóhi1 n. spiny part of the palm tree containing the leaves
-// uhohi2 n. navel
-// úhoho n. shadow
-// úhwerhe n. sugar-cane
-// úhwóvó
-// (ihwegbẹọvo)
-// num. eleven
-// uje num. twenty
-// uji n. theft
-// ujórin num. hundred
-// ujórha num. sixty
-// ujórhagbẹihwe num. seventy
-// újọ n. fly-whisk, object made of the tail of the horse used for decoration or
-// dancing
-// ujóne num. eighty
-// ujónegbẹihwe num. ninety
-// ujúvẹ num. forty
-// ujúvẹgbẹihwe num. fifty
-// uke1 n. hump, hunch
+navel: 'uhohi',
+shadow: 'úhoho',
+'sugar cane': 'úhwerhe',
+eleven: 'úhwọ&#768vó (ihwegbẹọvo)',
+twenty: 'uje',
+theft: 'uji',
+hundred: 'ujórin <i><small>100</small></i>',
+sixty: 'ujórha',
+seventy: 'ujórhagbẹihwe',
+'fly whisk': 'újọ <i><small>object made of the tail of the horse used for decoration or dancing</small></i>',
+// újọ n. fly-whisk, object made of the tail of the horse used for decoration or dancing
+eighty: 'ujọ&#768ne',
+ninety: 'ujọ&#768negbẹihwe',
+forty: 'ujúvẹ',
+fifty: 'ujúvẹgbẹihwe',
+hump: 'uke',
+hunch: 'uke',
 // uke2 n. style in Urhobo wrestling
 // ukéké n. piece of stick used for setting trap
-// ikeri n. number
-// úké n. egg
-// ukécha n. help
-// úkérékpẹ n. brick
-// ukẹun n. potash
-// úkó n. cup
+number: 'ikeri',
+egg: 'úkẹ&#768',
+brick: 'úkẹ&#768rékpẹ',
+potash: 'ukẹun',
+cup: 'úkó',
 // ukodo n. food prepared with meat and yam or plantain together (mixed grill)
-// ukókó1 n. association/society
-// ukoko2 n. (tobacco) pipe
-// ukokódia n. coconut palm
-// ukoni n. kitchen
-// ukori n. lump
+association: 'ukókó',
+society: 'ukókó',
+pipe: 'ukoko <i><small>tobacco</small></i>',
+'coconut palm': 'ukokódia',
+kitchen: 'ukoni',
+lump: 'ukori',
 // úkówọ n. top of the foot
-// úkọ n. misfortune
-// ukókóghọ n. small calabash used for storing medicine
-// ukópa (ikọbọ) n. one kobo (1k)
-// úkọvwá n. bridesmaid
-// úku n. heritage
-// ukujẹrẹ n. spoon
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 45
-// Urhobo PoS English gloss
-// ukúta n. rock
-// ukútarírhibo
-// (onanọ)
-// n. grinding stone
-// úkúwevwi n. back yard
-// úkpavwre. n. bile
-// ukpe1 n. year
-// úkpe2 (éhwá) n. bed
-// úkpébó n. white poplin
-// ukpéré prep. instead of
-// ukperi n. scandal
-// úkpokpo (ókónọ) n. missile
-// úkpókpógho n. disturbance
-// úkpokpomá n. problem, worriedness
-// ukpono1 n. lame person
-// ukpono2 (úhwérhe) n. broom used in sweeping open places like compound while standing
-// ukpotọ n. pothole
-// úkpọkẹre n. gutter
-// úmáko n. pepper fruit
-// umẹ1 n. committee
-// úmé2 n. cucumber
+misfortune: 'úkọ',
+// ukọ&#768kọ&#768ghọ n. small calabash used for storing medicine
+'one kobo': 'ukọ&#768pa',
+bridesmaid: 'úkọvwá',
+heritage: 'úku',
+spoon: 'ukujẹrẹ',
+rock: 'ukúta',
+'grinding stone': 'ukútarírhibo (onanọ)',
+'back yard': 'úkúwevwi',
+bile: 'úkpavwre',
+year: 'ukpe',
+bed: 'úkpe (éhwá)',
+'white poplin': 'úkpébó',
+'instead of': 'ukpérẹ&#768',
+scandal: 'ukperi',
+missile: 'úkpokpo (ọ&#768kọ&#768nọ)',
+disturbance: 'úkpókpógho',
+problem: 'úkpokpomá',
+worriedness: 'úkpokpomá',
+'lame person': 'ukpono',
+pothole: 'ukpotọ',
+gutter: 'úkpọkẹre',
+'pepper fruit': 'úmáko',
+committee: 'umẹ',
+cucumber: 'úmẹ&#768',
 // umi n. sack used to squeeze water out of ground cassava
-// úmióvwo n. destruction
-// úmuému (úrubé) n. boil
-// úmuwevwi n. cottage
-// umwamwa n. belt used by women
-// umwemwu n. sin
-// umwáyá n. belt
-// umwu (uhuvwu) n. drug
-// une n. song
-// unédi n. bunch of palm-nuts
-// unó (ulóhó) n. oak [no oak trees in Nigeria]
-// unórhẹ n. bunch of plantains
-// unu n. hole
-// unuémióvwo n. slander
-// unuéphérẹ n. tribe
-// unuékó n. quarrel
-// unurévie n. nipple
-// unurúwén n. nostril
-// unúrhoro n. entrance/gate
-// únúsọ n. anus
-// úpé n. scar
-// upéré (ubíbẹ) n. nail
-// úphiáphiá n. cane/whip
-// uphó1 n. throat
-// úpho2 n. flesh
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 46
-// Urhobo PoS English gloss
-// úphóro n. feather
-// úre n. totality
-// úrié n. vein
-// urí num. two hundred
-// urí gbẹ ujórin num. three hundred
-// uriórin num. one thousand
-// uriórha num. six hundred
-// iriórha gbẹ ujórin num. seven hundred
-// uriọdja n. handkerchief
-// urióne num. eight hundred
-// urióne gbẹ ujórin num. nine hundred
-// uriri n. glory
-// úririẹ n. spice variety
-// urívẹ num. four hundred
-// urívẹ gbẹ ujórin num. five hundred
-// úróko n. mile/kilometre
-// úruému n. behaviour
-// úruhré (úfí) n. rope
-// urúrúvwen n. December
-// úrhé n. tree
-// úrhi n. law
-// urhié n. river
-// úrhié n. queue
-// urhévwe n. destiny
-// úrhióbọ n. finger
-// úrhiówọ n. toe
-// urhiórin n. September
-// úrhiọke n. morning
-// úrhirako n. fox
-// urho1 (udo) n. mortar
-// urhó2 n. gum tree sp.
-// urhuẹ (ogbẹ) n. home
-// úrhúghweri n. mangrove sp.
-// úrhukpẹ (úkpẹ) n. lamp/light
-// urhuru1 n. selfishness
-// urhuru2 n. voice
-// úrhúrhu n. tail
-// urhúvwu n. street
-// usa n. ring
-// úsábọ n. scratch
-// úságuẹ n. groundnut
-// úse n. call
-// úseki n. charm for business promotion
-// úsekpe n. snail
-// úseri n. proof, evidence
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 47
-// Urhobo PoS English gloss
-// usi1 n. fame
-// úsi2 n. line
-// usí3 n. starch
-// úsiavwrẹ n. key
-// usigá n. jigger
-// usigho n. charm for wealth
-// usú n. company
-// úsuo n. government
-// usuọvwa n. middleman (within the context of marriage)
-// úshavwo n. okra
-// usheneuwámwá n. twenty kobo (20k)
-// ushi n. grave
-// úshọvó n. November
-// ushurhe n. axe
-// utéhru n. steel
-// útiẹ (ọsa) n. orange
-// utohri n. pestle
-// utóró n. three kobo (3k)
-// utú n. north
-// utudjéru (itijoro) n. scissors
-// útughẹ n. hut
+destruction: 'úmióvwo',
+boil: 'úmuému (úrubẹ&#768)',
+cottage: 'úmuwevwi',
+belt: 'umwáyá </br>umwamwa <i><small>belt used by women</small></i>',
+sin: 'umwemwu',
+drug: 'umwu (uhuvwu)',
+song: 'une',
+'bunch of palm nuts': 'unédi',
+oak: 'unó (ulóhó)',
+'bunch of plantain': 'unọ&#768rhẹ',
+hole: 'unu',
+slander: 'unuémióvwo',
+tribe: 'unuéphẹ&#768rẹ',
+quarrel: 'unuẹ&#768kọ&#768',
+nipple: 'unurévie',
+nostril: 'unurúwén',
+entrance: 'unúrhoro',
+gate: 'unúrhoro',
+anus: 'únúsọ',
+scar: 'úpé',
+nail: 'upẹ&#768rẹ&#768 (ubíbẹ)',
+cane: 'úphiáphiá',
+whip: 'úphiáphiá',
+throat: 'uphó',
+flesh: 'úpho',
+feather: 'úphóro',
+totality: 'úre',
+vein: 'úriẹ&#768',
+'two hundred': 'urí <i><small>200</small></i>',
+'three hundred': 'urí gbẹ ujórin <i><small>300</small></i>',
+'one thousand': 'uriórin <i><small>1000</small></i>',
+'six hundred': 'uriórha',
+'seven hundred': 'iriórha gbẹ ujórin <i><small>700</small></i>',
+handkerchief: 'uriọdja',
+'eight hundred': 'uriọ&#768ne <i><small>800</small></i>',
+'nine hundred': 'uriọ&#768ne gbẹ ujórin <i><small>900</small></i>',
+glory: 'uriri',
+'four hundred': 'urívẹ <i><small>400</small></i>',
+'five hundred': 'urívẹ gbẹ ujórin <i><small>500</small></i>',
+mile: 'úróko',
+kilometre: 'úróko',
+behaviour: 'úruému',
+rope: 'úruhrẹ&#768 (úfí) </br>efi <i><small>used by palm collector in climbing the palm tree</small></i>',
+december: 'urúrúvwen <i><small>December</small></i>',
+tree: 'úrhé </br>oghriki <i><small>tree specie</small></i></br>ohahe <i><small>silk-cotton tree</small></i></br>okpagha <i><small>oil-bean tree</small></i></br>urhó <i><small>gum tree specie</small></i>',
+law: 'úrhi',
+river: 'urhié',
+queue: 'úrhiẹ&#768',
+destiny: 'urhẹ&#768vwe',
+finger: 'úrhióbọ',
+toe: 'úrhiówọ',
+september: 'urhiórin <i><small>September</small></i>',
+morning: 'úrhiọke',
+fox: 'úrhirako',
+mortar: 'urho (udo)',
+home: 'urhuẹ (ogbẹ)',
+mongrove: 'úrhúghweri <i><small>specie</small></i>',
+lamp: 'úrhukpẹ (úkpẹ)',
+light: 'úrhukpẹ (úkpẹ) </br>vwavwarhe (ghéghé) <i><small>description</small></i>',
+selfishness: 'urhuru',
+voice: 'urhuru',
+tail: 'úrhúrhu',
+street: 'urhúvwu',
+ring: 'usa',
+scratch: 'úsábọ',
+groundnut: 'úságuẹ',
+call: 'úse',
+snail: 'úsekpe',
+proof: 'úseri',
+evidence: 'úseri',
+fame: 'usi',
+line: 'úsi',
+starch: 'usí',
+key: 'úsiavwrẹ',
+jigger: 'usigá',
+company: 'usú',
+government: 'úsuo',
+middleman: 'usuọvwa <i><small>within the context of marriage</small></i>',
+okra: 'úshavwo',
+'twenty kobo': 'usheneuwámwá',
+grave: 'ushi',
+november: 'úshọvó <i><small>November</small></i>',
+axe: 'ushurhe',
+steel: 'utéhru',
+orange: 'útiẹ (ọsa)',
+pestle: 'utohri',
+'three kobo': 'utọ&#768rọ&#768',
+north: 'utú',
+scissors: 'utudjéru (itijoro)',
+hut: 'útughẹ',
 // utunédi n. bunch of palm-nuts from which the nuts had been removed
-// útuomá n. charm that exposes someone to hatred
-// ututa n. onion
-// útúwevwi1
-// (ótọrúwevwi)
-// n. floor
-// útúwevwi2 n. parlour
-// uví1 n. paddle
-// úvi2 a. real
-// uvie n. kingdom
-// uvo (ọren) n. sun, sunshine
-// úvun n. bedroom
-// uvuówọ n. calf
-// uvumwemwu n. wickedness
-// uvweri n. mourning
-// uvwerhi n. reluctance
-// úvwési (ipóko) n. pork
-// úvwẹ n. chance
-// uvwiẹ1 n. generation
-// úvwié2 n. fart, foul air through the anus
-// uvwiéreri n. shoal
-// uvwré prep. midst
-// uvwróvwró n. crevice
-// uvwrọmọ n. grandchild
-// úwén1 n. nose
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 48
-// Urhobo PoS English gloss
-// úwe2 n. thorn
-// úwéré n. hardship
-// uwerúyóno
-// (isukuru)
-// n. school
-// uwevwi n. house
-// uwevwiẹbe n. library
-// uwevwiótọ n. bungalow
-// uweyi n. errand
-// úwén n. big fish-trap
-// uwéga (ishọshi) n. church
-// uwódi n. prison
-// uwórha n. shrine
-// úyérén1 n. greeting, appreciation
-// uyere2 n. moat
-// úyé n. fly
-// úyédjọ n. mask
-// úyóno n. lesson
-// úyóta n. truth
-// uyovwi n. head
-// úyovwióta n. theme
-// úzo (akora) n. antelope
-// V v
-// va1 v.t scold
-// vá2 v.t butcher, break into parts (e.g. kola-nut)
-// ve v.t bargain
-// vẹ1 v.t disperse (of a crowd)
-// vé2 prep. with
-// vẹn3 (gunu) v.t bend
-// vẹrhe adv. before
-// vie v.t suck
-// viẹ v.i cry
-// vo v.t draw (e.g. water out of well)
-// vó int. which
-// vu v.t uproot
-// vué v.t tell
-// vughe v.t know/recognise
-// vuvwu v.t roast
-// vrẹ v.i rise
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 49
-// Urhobo PoS English gloss
-// VW vw
-// vwá1 v.t revoke
+onion: 'ututa',
+floor: 'útúwevwi (ótọrúwevwi)',
+parlour: 'útúwevwi',
+paddle: 'uví',
+real: 'úvi',
+kingdom: 'uvie',
+sun: 'uvo (ọren)',
+sunshine: 'uvo (ọren)',
+bedroom: 'úvun',
+calf: 'uvuówọ',
+wickedness: 'uvumwemwu',
+mourning: 'uvweri',
+reluctance: 'uvwerhi',
+pork: 'úvwési (ipóko)',
+chance: 'úvwẹ',
+generation: 'uvwiẹ',
+fart: 'úvwiẹ&#768 <i><small>foul air through the anus</small></i>',
+shoal: 'uvwiẹ&#768reri',
+midst: 'uvwré',
+crevice: 'uvwróvwró',
+'grand child': 'uvwrọmọ',
+nose: 'úwén',
+thorn: 'úwe',
+hardship: 'úwéré',
+school: 'uwerúyóno (isukuru)',
+house: 'uwevwi',
+library: 'uwevwiẹbe',
+bungalow: 'uwevwiótọ',
+errand: 'uweyi',
+'big fish trap': 'úwẹ&#768n',
+// úwẹ&#768n n. big fish-trap
+church: 'uwẹ&#768ga (ishọshi)',
+prison: 'uwódi',
+greeting: 'úyérén',
+appreciatioin: 'úyérén',
+moat: 'uyere',
+mask: 'ẹ&#768djọ',
+lesson: 'úyóno',
+truth: 'úyóta',
+head: 'uyovwi',
+theme: 'úyovwióta',
+antelope: 'úzo (akora)',
+
+////////////////////////// V v
+scold: 'va',
+butcher: 'vá',
+bargain: 've',
+disperse: 'vẹ <i><small>of a crowd</small></i>',
+with: 'vẹ&#768',
+bend: 'úgúgunu (vẹn), (gunu)</br>rhuẹ <i><small>down</small></i>',
+before: 'vẹrhe',
+suck: 'vie',
+cry: 'viẹ',
+draw: 'vo <i><small>e.g. water out of well</small></i>',
+which: 'vọ&#768',
+uproot: 'vu',
+tell: 'vuẹ&#768',
+know: 'vughe',
+recognise: 'vughe',
+roast: 'vuvwu',
+rise: 'vrẹ',
+'get up': 'vrẹ',
+
+/////////////////////////// VW vw
+revoke: 'vwá',
 // vwa2 int. word that relates to the state of a person or thing
-// vware v.t wrap
-// vwarié v.t repeat
-// vwarhe v.i struggle
-// vwavware a. red
-// vwavwarhe (ghéghé) a. light
-// vwavwe v.t weigh
-// vwerhẹ v.i sleep
-// vwevwerhe a. delicious
-// vwẹ1 (mẹ) pron. me
-// vwé2 prep. within, in
-// vwẹghẹvwẹghẹ id. flat
-// vwẹre a. fast
-// vwi v.t stone
-// vwié1 v.t deceive
-// vwiẹ2 v.t born
-// vwiọvwiọ id. straight
-// vwirhi v.t break (with hands)
-// vwiyẹ prep. into
-// vwó1 (vwó) v.t use
+wrap: 'vware',
+repeat: 'vwariẹ&#768',
+struggle: 'vwarhe',
+red: 'vwavware',
+weigh: 'vwavwe',
+delicious: 'vwevwerhe',
+me: 'vwẹ (mẹ)',
+within: 'vwẹ&#768',
+fast: 'vwẹre',
+stone: 'úbiérágha (úbiúkuta)</br>vwi <i><small>to stone</small></i>',
+deceive: 'vwiẹ&#768',
+born: 'vwiẹ',
+into: 'vwiyẹ',
+use: 'vwọ&#768 (vwó)',
 // vwọ2 v.t assist a person in lifting a load to the head
-// vwọvwe v.t disgrace
-// vwu v.i swell
-// vwre v.t turn (somebody/something) over
-// vwrẹ v.t cut (with hands)
-// vwro v.t argue
-// vwru v.i survive
-// W w
-// wá1 (vwán) pron. you (coll.)
-// wá2 (vwán) pron. you (obj.) (coll.)
-// wa3 v.i pass (examination)
-// wavrẹ v.t outstrip, overtake, pass
+swell: 'vwu',
+argue: 'vwro',
+survive: 'vwru',
+
+//////////////////////////////// W w
+you: 'wẹ (wọ), (wẹ&#768n)<i><small>singular</small></i></br>wá (vwán) <i><small>coll.</small></i>',
+outstrip: 'wavrẹ',
+overtake: 'wavrẹ',
 // weke id. word describing the vastness of an injury
-// wene v.t change, transfer
+transfer: 'wene',
 // wéruo exp. please continue with your meal (coll.)
-// wẹ1 (wọ) pron. you (sing.)
-// wẹ2 pron. you (obj.) (sing.)
-// wén3 poss.a. you (sing.)
-// wẹn4 v.i breathe
-// Urhobo Dictionary A.O. Ukere (1986) Web version by Roger Blench (2005)
-// 50
-// Urhobo PoS English gloss
+breathe: 'wẹn',
+'exchange words with': 'wẹnẹ',
 // wẹnẹ v.t exchange words with
-// wia v.t work
-// wo1 v.t descend
-// wo2 v.t put down (of load carried by a person)
-// Y y
-// yá1 v.t catch
-// yan2 v.i walk/move
-// yanra (ra) (kpo) v.i go
-// yanrhe (mọ) (rhe) v.i come
-// yárá a. bitter
-// yavwe v.t circumcise
-// yáyá a. dry
-// Yéghwérẹ exp. safe journey!
-// yena dem. that/those
-// yeri v.t climb
+descend: 'wo',
+'put down': 'wo <i><small>of load carried by a person</small></i>',
+
+///////////////////////////////// Y y
+catch: 'yá',
+move: 'yan',
+go: 'yanra (ra), (kpo)',
+come: 'yanrhe (mọ), (rhe)',
+bitter: 'yárá',
+circumcise: 'yavwe',
+'safe journey': 'Yéghwérẹ',
+that: 'yena',
+those: 'yena',
+climb: 'yeri',
+'greet all at home': 'yerobuwevwi',
+'send my greetings': 'yerobuwevwi',
+'send my regards': 'yerobuwevwi',
 // yerobuwevwi exp. greet all at home
 // yẹghrẹ v.i struggle for balance
-// yéré (éyé) conj. or
-// yoma v.i boast
-// yono v.t learn, study
-// yoyovwi (yovwi) adv. fine, well
-// yọre v.t hold
-// Z z
-// ze v.t offer, sacrifice
-// zighizighi1
-// (yaghayagha)
-// id. rough
-// roughly: 'zighizighi',
+or: 'yẹ&#768rẹ&#768 (éyẹ&#768)',
+boast: 'yoma',
+learn: 'yono',
+study: 'yono',
+hold: 'yọre',
+
+//////////////////////// Z z
+offer: 'ze',
+rough: 'zighizighi (yaghayagha)',
+roughly: 'zighizighi',
+}
