@@ -8,9 +8,6 @@ let input = document.getElementById('search')
 // 	if (words[searchWord] !== undefined) {
 // 		document.getElementById('meaning').innerHTML = `<i>${search}:</i> <b>${words[searchWord]}</b>`;
 // 	} 
-// 	// else if (words[searchWord] === undefined) {
-// 	// 	document.getElementById('meaning').innerHTML = "Type in a word";
-// 	// } 
 // 	else {
 // 		document.getElementById('meaning').innerHTML = `${search} not found!`;
 // 	}
@@ -40,7 +37,7 @@ function assignSearch() {
 // 	};
 // }
 
-/////////////////////// Keypress Enter 
+/////////////////////////////////// Keypress Enter 
 function enterSearch(event) {
 	if (event.keyCode === 13) {
 		assignSearch();

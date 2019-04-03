@@ -25,9 +25,58 @@ h1, h2, h3, h4, h5, h6 {
 	background-color: white;
 	max-width: 800px;
 	margin: 0px auto 0px;
-	padding: 50px 20px 0;
+	padding: 50px 50px 0;
 	background-color: white;
 	border-right: 1px solid rgba(140, 140, 140, 0.5);
 	border-left: 1px solid rgba(140, 140, 140, 0.5);
 }	
 
+/****************************** Search Box **********************************/
+.search {
+	border-radius: 15px 0 0 0;
+	padding: 5px 0 0px 5px;
+	outline: none;
+	font-color: rgb(102, 153, 153);;
+}
+
+.go {
+	background-color: rgb(102, 153, 153);
+	outline: none;
+	border: none;
+	border-radius: 0 15px 0 0;
+	padding: 5px 10px 0 5px;
+	border: 1px solid rgb(102, 153, 153);
+	color: white;
+}
+.go:hover {
+	background-color: rgb(61, 92, 92);;
+}
+.searchDescription {
+	font-size: 1.2rem;
+	padding: 10px 0 30px;
+	line-height: 15px;
+	letter-spacing: 1px;
+}
+
+/****************************** In Urhobo **********************************/
+.inUrhobo {
+	min-height: 70px;
+}
+.meaning {
+	word-spacing: 7px;
+}
+
+/****************************** Sentences **********************************/
+.sentences {
+	min-height: 70px;
+}
+
+/****************************** Links **********************************/
+.links {
+	line-height: 20spx;
+	margin: 20px;
+	text-align: justify;
+}
+.links a {
+	/*padding-right: 20px;*/
+}
